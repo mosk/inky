@@ -4,7 +4,7 @@
   "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
   "author": "mosk <miiixsc@gmail.com>, ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "keywords": [
-    "minky"
+    "minky",
     "ink",
     "foundation",
     "email",

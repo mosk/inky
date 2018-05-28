@@ -1,9 +1,10 @@
 {
-  "name": "inky",
-  "version": "1.3.7",
+  "name": "minky",
+  "version": "0.9.0",
   "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
-  "author": "ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
+  "author": "mosk <miiixsc@gmail.com>, ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "keywords": [
+    "minky"
     "ink",
     "foundation",
     "email",
@@ -35,7 +36,12 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "repository": "https://github.com/zurb/inky.git",
-  "bugs": "https://github.com/zurb/inky/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mosk/minky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mosk/minky/issues"
+  },
   "license": "MIT"
 }

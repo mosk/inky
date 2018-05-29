@@ -1,6 +1,6 @@
 {
   "name": "minky",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Convert a simple HTML syntax into tables compatible with Foundation for Emails.",
   "author": "mosk <miiixsc@gmail.com>, ZURB <foundation@zurb.com> (http://foundation.zurb.com)",
   "keywords": [
